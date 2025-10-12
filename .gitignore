@@ -1,0 +1,13 @@
+utils/_pycache/
+__pycache__/
+.ipynb_checkpoints
+.vscode/
+.DS_Store
+env/
+env.bak/
+.venv/
+.venv.bak/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
